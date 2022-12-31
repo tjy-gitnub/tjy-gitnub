@@ -1,16 +1,28 @@
-### Hi there 👋
+# 欢迎来到谭景元的Gihub
 
-<!--
-**tjy-gitnub/tjy-gitnub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ### Welcome To Tan Jingyuan's Github
 
-Here are some ideas to get you started:
+```
+    (-   _
+ (-  \ \ ( \           )
+  \ \ \ \ \ \ ( \        )
+  \ \ \ \ \ \ | |
+( \| \| \| \| V |
+  \             )
+    \          /
+      \-------/
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我觉得你应该先去我的主页看看，而不是直接看我的存储库😀
+
+> I think that it's better to look my homepage first, but not to look my repositories😀
+
+我的主页是[tjy-gitnub.github.io](//tjy-gitnub.github.io)
+
+> My homepage is on [tjy-gitnub.github.io](//tjy-gitnub.github.io)
+
+记住是 tjy-git`n`ub 而不是 tjy-git`h`ub
+
+> Remember it's tjy-git`n`ub not tjy-git`h`ub
+
+# 😏

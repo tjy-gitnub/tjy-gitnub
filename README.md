@@ -1,4 +1,4 @@
-# 欢迎来到谭景元的Gihub
+# 欢迎来到谭景元的Github
 
 > ### Welcome To Tan Jingyuan's Github
 

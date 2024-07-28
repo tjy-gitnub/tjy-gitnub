@@ -1,16 +1,9 @@
-# 欢迎来到谭景元的Gihub
+# 欢迎来到星源的 Github
 
-> ### Welcome To Tan Jingyuan's Github
+> ### Welcome To Visit Starry Source's Github
 
 ```
-    (-   _
- (-  \ \ ( \           )
-  \ \ \ \ \ \ ( \        )
-  \ \ \ \ \ \ | |
-( \| \| \| \| V |
-  \             )
-    \          /
-      \-------/
+>u-)o
 ```
 
 我觉得你应该先去我的主页看看，而不是直接看我的存储库😀
